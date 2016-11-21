@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.net.*;
 
-public class random_code {
+public class random_code_1 {
 
     public static String lib_getExtension_0_0(String fileName){
         String extension = "";
